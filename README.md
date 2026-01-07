@@ -28,14 +28,14 @@ This helps in adding visual neighborhood context to price prediction.
 
 
 Repository Structure
-├── cdc.ipynb              # Complete end-to-end project notebook
+├── Abhishek_22321003_CDC.ipynb              # Complete end-to-end project notebook
 ├── images/
 │   └── train_subset/      # Satellite images used for multimodal modeling
 ├── submission.csv         # Final predictions on test data
 └── README.md              # Project documentation
 
 
-Notebook Description (cdc.ipynb)
+Notebook Description (Abhishek_22321003_CDC.ipynb )
 
 The notebook contains the entire workflow, organized step by step:
 
